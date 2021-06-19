@@ -1,0 +1,15 @@
+###
+ # @Descripttion: 
+ # @version: X3版本
+ # @Author: 孙日发
+ # @Date: 2021-06-19 13:06:01
+ # @LastEditors: 孙日发
+ # @LastEditTime: 2021-06-19 13:39:30
+### 
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+npx lint-staged
+npx lint-staged
+npx lint-staged
+npx lint-staged

@@ -1,6 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/*
+ * @Descripttion:
+ * @version: X3版本
+ * @Author: 孙日发
+ * @Date: 2021-06-19 11:19:56
+ * @LastEditors: 孙日发
+ * @LastEditTime: 2021-06-19 13:18:11
+ */
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
